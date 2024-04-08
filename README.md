@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
 <h3 align="center">My name is Simone and I am a full stack web developer!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SimoCrisce&label=Profile%20views&color=0e75b6&style=flat" alt="SimoCrisce" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SimoCrisce&theme=" alt="SimoCrisce" /></a> </p>
-
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
+- I’m currently learning **HTML, CSS, JAVASCRIPT, PHP**
 
 <div> <a href="https://www.linkedin.com/in/simone-criscenti-b49272237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/SimoCrisce" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -27,3 +24,5 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoCrisce&layout=compact&theme=default" alt=SimoCrisce />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SimoCrisce&show_icons=true&locale=en&theme=default" alt="SimoCrisce" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SimoCrisce&label=Profile%20views&color=0e75b6&style=flat" alt="SimoCrisce" /> </p>
